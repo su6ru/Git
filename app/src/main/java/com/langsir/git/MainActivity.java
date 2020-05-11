@@ -14,8 +14,8 @@ public class MainActivity extends AppCompatActivity {
         h=1;
         h=3;
         int g=6;
-        String Master0="1";
-        System.out.println(Master0);
+        String Master="Master";
+        System.out.println(Master);
         System.out.println(g);
     }
 }

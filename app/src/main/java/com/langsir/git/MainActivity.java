@@ -6,6 +6,7 @@ import androidx.appcompat.app.AppCompatActivity;
 
 public class MainActivity extends AppCompatActivity {
     int h=0;
+    int version=3;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -13,8 +14,7 @@ public class MainActivity extends AppCompatActivity {
         h=1;
         h=3;
         int g=6;
-        String Master="1";
-        System.out.println(Master);
+        String Master="Master";
         System.out.println(g);
     }
 }

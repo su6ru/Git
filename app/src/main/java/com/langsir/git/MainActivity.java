@@ -13,7 +13,7 @@ public class MainActivity extends AppCompatActivity {
         h=1;
         h=3;
         int g=5;
-        String B1="s";
+        String B1="B1";
         System.out.println(B1);
         System.out.println(g);
     }

@@ -13,8 +13,8 @@ public class MainActivity extends AppCompatActivity {
         h=1;
         h=3;
         int g=6;
-        String Master="1";
-        System.out.println(Master);
+        String Master0="1";
+        System.out.println(Master0);
         System.out.println(g);
     }
 }

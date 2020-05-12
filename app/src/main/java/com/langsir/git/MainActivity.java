@@ -1,6 +1,7 @@
 package com.langsir.git;
 
 import android.os.Bundle;
+import android.util.Log;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -16,5 +17,6 @@ public class MainActivity extends AppCompatActivity {
         String B1="B1";
         System.out.println(B1);
         System.out.println(g);
+        Log.d("b2","B1");
     }
 }
